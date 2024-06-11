@@ -8,7 +8,7 @@
 - Create a Terraform Repository on my GitHub and setting up the branching and merging strategy
 - Clone Terraform Repo on my local machine
 
-## AWS Infrastructure Creation using Terraform by A Security Guru
+## AWS Infrastructure Creation using Terraform 
 
 Helpful Terraform Links:
 - [Terraform Language Documentation](https://www.terraform.io/docs/language/index.html)
